@@ -9,8 +9,7 @@ return (
     {props.photos.map(function (photo, index) {
        return (
         <div className="col-4" key={index} >
-       <img src={photo.src.landscape} className="img-fluid" alt="
-       Photo"/>
+       <img src={photo.src.landscape} className="img-fluid" alt=""/>
        </div>
        );
     })}
