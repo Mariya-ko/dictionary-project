@@ -1,5 +1,6 @@
 .Phonetic {
     margin: 10px 0;
+    color: black;
 }
 
 .Phonetic a {
@@ -8,6 +9,7 @@
     padding: 3px 15px;
     border-radius: 10px;
     transition: all 150ms ease-in-out;
+    color: black;
 }
 
 .Phonetic a:hover {
